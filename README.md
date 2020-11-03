@@ -5,7 +5,7 @@ How to Run it.
  * Clone this repo
  * execute ```mvn clean install``` to download related dependencies
  * go to *target* folder
- * execute  ```java -jar html-parser-1.0.0-SNAPSHOT.jar <componentid> <absolutePathToHtmlFileOrigin> <absolutePathToHtmlTarget>```
+ * execute  ```java -jar html-parser-1.0.0-SNAPSHOT.jar <"componentid"> <absolutePathToHtmlFileOrigin> <absolutePathToHtmlTarget>```
 
 Example
 
